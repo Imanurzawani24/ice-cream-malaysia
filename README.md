@@ -17,7 +17,7 @@ c) Introduction
 
 d) Objective of the proposed mobile application
 - Opportunities for students to generate income by doing part time jobs.
-- Promote Malaysia product to International student
+- Promote Malaysia product to International student.
 - Re-introduce Malaysia ice cream that nearly extinct 
 - To provide the customers an easy format of ordering their desired deserts in an easy manner.
 - To provide the easy billing and order format to the customers and workers in the store.
