@@ -7,7 +7,7 @@ a) Group Member Details (Name & Matric No).
 1. Muhammad Afiq Bin Munir (1818931) - LEADER
 2. Nurul Jannah Binti Hussain (1811252)
 3. Nur Ain Binti Ishak (1810052) 
-4. Nurul Ain Syamina binti Noorafandi (1814584)
+4. Nurul Ain Syamina Noorafandi (1814584)
 5. Iman Nurzawani Binti Osman (1814246)
 
 b) Title: I Scream Ice Cream.
