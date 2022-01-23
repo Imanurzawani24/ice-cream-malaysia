@@ -1,5 +1,5 @@
 
-# I Scream ice-cream
+# I Scream Ice Cream
 MOBILE APPLICATION INFO 4302
 SECTION 1 21/22
 
