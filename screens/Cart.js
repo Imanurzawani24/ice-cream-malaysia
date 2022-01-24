@@ -1,6 +1,5 @@
 import React, { useEffect, useState, useContext } from 'react';
 import { View, Text, Button, FlatList, StyleSheet, TouchableOpacity } from 'react-native';
-
 import { CartContext } from '../CartContext';
 
 export function Cart ({navigation}) {
