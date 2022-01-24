@@ -28,7 +28,8 @@ e) Features and functionalities of the proposed mobile application
 - Add to Cart page
 - Delivery Location page
 - Payment page 
-- Logout button
+- Logout butto
+- Context API
 - Map API
 
 f) A sequence diagram to represent the interaction of the proposed mobile application
